@@ -1,0 +1,71 @@
+html{
+    background-color: #FFE7BF;
+}
+
+h1{
+    text-align: center;
+    color: #A10035;
+    font-size: 100px;
+    font-family: "century gothic";
+}
+
+h3{
+    text-align: center;
+    color: #293462;
+    font-size: 100px;
+    font-family: "century gothic";
+}
+
+.button1{
+    background-color: #A10035;
+    color: #FFE7BF;
+    font-size: 30px;
+    font-family: "century gothic";
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button2{
+    background-color: #A10035;
+    color: #FFE7BF;
+    font-size: 30px;
+    font-family: "century gothic";
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button3{
+    background-color: #A10035;
+    color: #FFE7BF;
+    font-size: 30px;
+    font-family: "century gothic";
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.container_two{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+    color: #A10035;
+    font-size: 20px;
+    font-family: "century gothic";
+}
