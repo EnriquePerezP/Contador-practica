@@ -8,7 +8,7 @@ function decrementarNumero(){
     updateDisplay(--contador);
 }
 
-function reiniciar(){
+function resetNumero(){
     contador = 0;
     updateDisplay(contador);
 }
